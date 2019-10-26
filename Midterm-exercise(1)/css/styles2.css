@@ -1,0 +1,87 @@
+*{
+    box-sizing: border-box;
+
+}
+.container{
+    width: 1000px; 
+    margin: 0px auto; 
+}
+#blog img{
+    padding: 10px 0px 10px;
+	margin: 0px auto;
+	width: 1150px;
+}
+body{
+    width:1200px;
+   padding:40px;
+}
+h2{
+    padding-left: 25px;
+    margin-bottom: 0px;
+    width: 80%;
+}
+
+body p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:18px;
+    font-weight:bold;
+}
+.paragraph3{
+    width:60%;
+    text-indent: 25px;
+}
+.paragraph1 #quote{ 
+     width: 55%; 
+    background-color:whitesmoke;
+    color:blue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:30px;
+    font-weight:bold;
+ 
+}
+
+.paragraph1{
+	margin:5px;
+    padding: 5px;
+    column-count: 2; 
+    
+}
+.paragraph1 p{
+    width:500px; 
+    text-indent:25px;
+    
+}
+
+
+#paragraph2 p{ 
+    text-indent:25px;
+    width:60%;
+   
+}
+#lakepic{
+    width:500px;
+}
+.thumbs img{
+vertical-align: text-bottom;
+padding:20px;
+width: 200px;
+height:200px;
+
+
+}
+.thumbs{
+    position: relative;
+}
+.thumbs #desc{
+   text-indent: 200px;
+    padding: 10px;
+    font-weight:bold;
+    color: grey;
+    font-style: italic;
+   
+}
+#moreinfo li{
+    font-size: 20px;
+    font-weight: bold;
+    
+}
